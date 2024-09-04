@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-the website runs on http://localhost:5000/
+the website runs on localhost port 5000
 ## References
 * https://www.kaggle.com/datasets/joebeachcapital/amazon-books
 * https://www.youtube.com/watch?v=ijtxuF_5kEU
