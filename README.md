@@ -6,6 +6,9 @@ A website that lets you explore a list of books and provides personalized recomm
 
 ## Demo
 
+The demo shows two pages one for recommending books and the other for browse and search the book dataset.
+
+![](https://github.com/Kindah12/BookRecommender/blob/main/GIF.gif)
 
 ## Technologies
 
